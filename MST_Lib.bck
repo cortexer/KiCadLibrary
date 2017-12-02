@@ -1,0 +1,79 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP C
+D Unpolarized capacitor
+K cap capacitor
+$ENDCMP
+#
+$CMP CP
+D Polarised capacitor
+K cap capacitor
+$ENDCMP
+#
+$CMP D
+D Diode
+K diode
+$ENDCMP
+#
+$CMP D_ALT
+D Diode, alternativ symbol
+K diode
+$ENDCMP
+#
+$CMP D_Schottky
+D Schottky diode
+K diode Schottky
+$ENDCMP
+#
+$CMP D_Zener
+D Zener Diode
+K diode
+F https://en.wikipedia.org/wiki/Zener_diode
+$ENDCMP
+#
+$CMP Ferrite_Bead
+D Ferrite bead
+K L ferite bead inductor filter
+$ENDCMP
+#
+$CMP Fuse
+D Fuse, generic
+K Fuse
+$ENDCMP
+#
+$CMP L
+D Inductor
+K inductor choke coil reactor magnetic
+$ENDCMP
+#
+$CMP LED
+D LED generic
+K led diode
+$ENDCMP
+#
+$CMP L_ALT
+D Inductor
+K inductor choke coil reactor magnetic
+$ENDCMP
+#
+$CMP MountingHole
+D Testpoint, connection for test equipment
+K tp testpoint
+$ENDCMP
+#
+$CMP R
+D Resistor
+K r res resistor
+$ENDCMP
+#
+$CMP R_ALT
+D Resistor
+K r res resistor
+$ENDCMP
+#
+$CMP TEST
+D Testpoint, connection for test equipment
+K tp testpoint
+$ENDCMP
+#
+#End Doc Library
